@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0821-shortest-distance-to-a-character](https://github.com/abhishek1531/leetcode-dsa/tree/master/0821-shortest-distance-to-a-character) |
+## Math
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/abhishek1531/leetcode-dsa/tree/master/3536-maximum-product-of-two-digits) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/abhishek1531/leetcode-dsa/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
