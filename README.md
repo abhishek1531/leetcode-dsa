@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/abhishek1531/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0821-shortest-distance-to-a-character](https://github.com/abhishek1531/leetcode-dsa/tree/master/0821-shortest-distance-to-a-character) |
 | [3838-weighted-word-mapping](https://github.com/abhishek1531/leetcode-dsa/tree/master/3838-weighted-word-mapping) |
 ## String
@@ -18,10 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/abhishek1531/leetcode-dsa/tree/master/0189-rotate-array) |
 | [0821-shortest-distance-to-a-character](https://github.com/abhishek1531/leetcode-dsa/tree/master/0821-shortest-distance-to-a-character) |
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/abhishek1531/leetcode-dsa/tree/master/0189-rotate-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/abhishek1531/leetcode-dsa/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
